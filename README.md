@@ -1,1 +1,1 @@
-# ICU-Length-of-Stay-Prediction-Final-Project-
+# ICU Length of Stay Prediction Final Project
